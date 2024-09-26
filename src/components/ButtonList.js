@@ -3,7 +3,6 @@ import Button from './Button'
 
 const ButtonList = () => {
   
-
   return (
     <div className='flex border-solid border-black '>
       
@@ -15,7 +14,7 @@ const ButtonList = () => {
       <Button name="live"/>
       <Button name="bhajan"/>
       <Button name="new year"/>
-      <Button name= "festival"/>
+      <Button name= "festival"/> 
       
     </div>
   )
